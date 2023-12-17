@@ -222,3 +222,7 @@ h5 {
     border-style: hidden;
     border-radius: 15px;
 }
+
+.Block {
+    display: block !important;
+}
