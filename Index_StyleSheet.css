@@ -226,3 +226,7 @@ h5 {
 .Block {
     display: block !important;
 }
+
+.Bold {
+    font-weight: 600;
+}
