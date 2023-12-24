@@ -230,3 +230,11 @@ h5 {
 .Bold {
     font-weight: 600;
 }
+
+.Border-Background {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px 1px 1px 1px;
+    padding: 2px 2px 2px 2px;
+}
