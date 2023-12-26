@@ -231,6 +231,14 @@ h5 {
     font-weight: 600;
 }
 
+.Italic {
+    font-style: italic;
+}
+
+.Underline {
+    text-decoration: underline;
+}
+
 .Border-Background {
     border-style: solid;
     border-radius: 5px;
